@@ -37,12 +37,12 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of youtube .com
 
 ## OUTPUT:
-![Screenshot 2025-03-08 123927](https://github.com/user-attachments/assets/4d76aacc-c7f4-4d00-a1c3-59b4368238d5)
+![420434978-f80fc2ff-ad1b-415d-92f6-8487a60636eb](https://github.com/user-attachments/assets/23e7e290-1960-457b-98a0-63214275913c)
 
 ## Finding Hosting Company:
 get further detail by using ip2location.com website.
 ## OUTPUT :
-![Screenshot 2025-03-07 223524](https://github.com/user-attachments/assets/e99ac3bd-5675-4b9e-bd39-2ff39b83a420)
+![Screenshot 2025-03-08 123927](https://github.com/user-attachments/assets/4d76aacc-c7f4-4d00-a1c3-59b4368238d5)
 
 ## History of the website:
 ## OUTPUT :
