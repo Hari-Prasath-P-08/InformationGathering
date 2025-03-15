@@ -46,8 +46,9 @@ get further detail by using ip2location.com website.
 
 ## History of the website:
 ## OUTPUT :
-![lab2(4)](https://github.com/user-attachments/assets/e4e12ae6-3543-4c00-920a-bc7f0174ae9c)
-![lab2(5)](https://github.com/user-attachments/assets/c4d933a9-87b6-444f-b8ff-a4d08a2a5841)
+![Screenshot 2025-03-15 132816](https://github.com/user-attachments/assets/1b106a2f-17a7-4cf3-bb96-825f8c7af2d2)
+![Screenshot 2025-03-15 132942](https://github.com/user-attachments/assets/256f9e21-bac7-4a35-b60e-6fcc37ba9853)
+
 
 ## Webserver Fingerprinting:
 ## Netcat:
